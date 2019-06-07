@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath: "hangmanVueJS/dist",
+  publicPath: "~sreenivasam/hangmanVueJS/dist",
   assetsDir: "static"
 };
