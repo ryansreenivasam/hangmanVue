@@ -2,7 +2,7 @@
   <div class="hangman">
     <h1>{{ blankWordString }}</h1>
     <h2>
-    <button v-on:click="setLetter('A')">A</button>
+    <button class="test" v-on:click="setLetter('A')">A</button>
     <button v-on:click="setLetter('B')">B</button>
     <button v-on:click="setLetter('C')">C</button>
     <button v-on:click="setLetter('D')">D</button>
